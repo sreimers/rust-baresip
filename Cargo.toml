@@ -2,6 +2,7 @@
 name = "baresip"
 version = "0.0.1"
 authors = ["Sebastian Reimers"]
+description = "Baresip is a portable and modular SIP User-Agent with audio and video support."
 license = "BSD-3-Clause"
 homepage = "https://github.com/baresip/baresip"
 repository = "https://github.com/sreimers/rust-baresip"
