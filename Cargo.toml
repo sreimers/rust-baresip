@@ -1,0 +1,10 @@
+[package]
+name = "baresip"
+version = "0.0.1"
+authors = ["Sebastian Reimers"]
+license = "BSD-3-Clause"
+homepage = "https://github.com/baresip/baresip"
+repository = "https://github.com/sreimers/rust-baresip"
+edition = "2018"
+
+[dependencies]
